@@ -2,6 +2,8 @@
 
 Link: [Mbebo's journal](https://github.com/nonnabyte/PerformingRobots/blob/main/journal.md)
 
+
+![Dr. Orchid Image]()
 # Expressing Dr. Orchid's Personality Through the Robot
 
 To authentically represent Dr. Orchid's character, we need to incorporate features that highlight her:
@@ -57,3 +59,7 @@ To authentically represent Dr. Orchid's character, we need to incorporate featur
 ### Programming:
 - **Movement Scripts**: Predefined motions that align with her character traits.
 - **Voice Lines**: Programmed to play at specific cues during the performance.
+
+
+
+# 24 September 2024
