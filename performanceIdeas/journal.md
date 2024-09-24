@@ -65,4 +65,4 @@ To authentically represent Dr. Orchid's character, we need to incorporate featur
 # 24 September 2024
 ### Robot Base Update
 
-![1](performanceIdeas/pictures/Robotbase1.jpeg)
+![1](performanceIdeas/images/Robotbase1.jpeg)
