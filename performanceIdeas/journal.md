@@ -3,7 +3,7 @@
 Link: [Mbebo's journal](https://github.com/nonnabyte/PerformingRobots/blob/main/journal.md)
 
 
-![Dr. Orchid Image](performanceIdeas/Dr.Orchidimage.webp)
+![Dr. Orchid Image](performanceIdeas/Dr.Orchid.webp)
 # Expressing Dr. Orchid's Personality Through the Robot
 
 To authentically represent Dr. Orchid's character, we need to incorporate features that highlight her:
