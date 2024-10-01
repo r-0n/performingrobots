@@ -66,3 +66,9 @@ To authentically represent Dr. Orchid's character, we need to incorporate featur
 ### Robot Base Update
 
 ![1](Robotbase1.jpeg)
+
+
+# 26 September 2024
+### Update to Robot Base:
+ - Mounted the casters for balance
+ - Installed the arduino, motor driver, and battery.
