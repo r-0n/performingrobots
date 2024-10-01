@@ -74,3 +74,7 @@ To authentically represent Dr. Orchid's character, we need to incorporate featur
    ![2](casters.jpeg)
  - Installed the arduino, motor driver, and battery.
    ![3](arduino.jpeg)
+
+
+# 1 October 2024
+### Questions From Presentation
