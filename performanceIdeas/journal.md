@@ -78,3 +78,5 @@ To authentically represent Dr. Orchid's character, we need to incorporate featur
 
 # 1 October 2024
 ### Questions From Presentation
+- Why is there a penchant to make robots more humanly. Is it to improve their aesthetics for integration into human spaces or to satisfy a desire to play god.
+- 
